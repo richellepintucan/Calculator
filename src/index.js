@@ -2,6 +2,8 @@
 
 // Ask the user for 2 input numbers to perform Calculations
 
+alert("Try me!");
+
 let num1 = Number(prompt('Enter any number1:')); // inputs should be only numbers
 
 let num2 = Number(prompt('Enter again any number2:')); // inputs should be only numbers
